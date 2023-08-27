@@ -23,3 +23,11 @@ cov*/
 transcript*
 sc_dpiheader.h
 vsim.dbg
+*.vwf
+*.qdf
+*.json
+*.rpt
+*.qsf
+*.qpf
+*.rpt
+*.qdf
